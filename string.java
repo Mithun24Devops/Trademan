@@ -1,2 +1,3 @@
-this is java class which contains string related function
+i
+Tthis is java class which contains string related functions
 TThis is master branch....
